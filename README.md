@@ -9,8 +9,9 @@ For Sharp Android One S1
   4. use fastboot to flash boot image into boot partition
 
 ## Android 9
-  1. download boot_patch.img from Release,according to your S1's Build number 
-  2. use fastboot to flash boot image into boot partition
+  1. download boot_patch.img from Release
+  2. try "fastboot boot boot_patch.img" ,if it boot,you can take next step
+  3. use fastboot to flash boot image into boot partition
 
 # Credit
   su98 from https://forum.xda-developers.com/t/root-with-cve-2019-2215.3979341/page-9#post-80702567
