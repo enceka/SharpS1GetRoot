@@ -14,4 +14,7 @@ For Sharp Android One S1
 
 # Credit
   su98 from https://forum.xda-developers.com/t/root-with-cve-2019-2215.3979341/page-9#post-80702567
-  
+ 
+# What's More
+  contact me On CoolApk @Enceka or email me enceka@yeah.net
+
