@@ -1,6 +1,7 @@
 # SharpS1GetRoot
-For Sharp Android One S1
-NOT support the version after 00WW_5_180
+For Sharp Android One S1 \n
+
+But NOT support the version after 00WW_5_180
 
 # How To
 ## before Android 9 via CVE-2019-2215
