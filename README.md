@@ -1,7 +1,8 @@
 # SharpS1GetRoot
 For Sharp Android One S1 
 
-But NOT support the version after 00WW_5_180
+But NOT support the version after 00WW_5_180,it'll brick your phone
+
 
 # How To
 ## before Android 9 via CVE-2019-2215
