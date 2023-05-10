@@ -1,5 +1,5 @@
 # SharpS1GetRoot
-For Sharp Android One S1 \n
+For Sharp Android One S1 
 
 But NOT support the version after 00WW_5_180
 
